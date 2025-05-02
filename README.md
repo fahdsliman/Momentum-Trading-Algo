@@ -6,6 +6,7 @@ This algorithm implements a momentum-based trading strategy that selects the top
 
 Strategy Details
 
+
 Lookback Period: 10 days
 
 Holding Period: 5 days
