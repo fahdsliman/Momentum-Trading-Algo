@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 # Parameters
 LOOKBACK_PERIOD = 10  # Days to calculate momentum
