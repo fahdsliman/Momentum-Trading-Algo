@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Parameters
+# Parameters 
 LOOKBACK_PERIOD = 10  # Days to calculate momentum
 HOLDING_PERIOD = 5  # Days to hold positions
 TOP_N = 3  # Number of top performers to buy
